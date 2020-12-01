@@ -1,0 +1,15 @@
+[ {
+  "Seekers" : 0,
+  "Started" : 1,
+  "Status" : "Public",
+  "roomId" : 0,
+  "roomName" : "",
+  "totalPlayers" : 0
+}, {
+  "Seekers" : 346,
+  "Started" : 0,
+  "Status" : "Public",
+  "roomId" : 1,
+  "roomName" : "5uu",
+  "totalPlayers" : 36
+} ]
